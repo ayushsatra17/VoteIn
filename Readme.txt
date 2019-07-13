@@ -1,5 +1,0 @@
-VoteIn is a Python GUI Application: 
--This is a voting application which allows voter to cast a single vote after verifying their credentials.
--The file containing user credentials is Voters.db File.
--Party.db file contains all the votes won by the parties.
--Used SQLite as the Database.
